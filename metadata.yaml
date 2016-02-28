@@ -1,0 +1,26 @@
+_repo: Adventures-in-the-Land-of-Canaan_7016
+creator:
+  author:
+    agent_name: Berry, R. L. (Robert Lee)
+    alias: Berry, Robert Lee
+    birthdate: 1874
+    deathdate: 1952
+    gutenberg_agent_id: '2304'
+    url: http://www.gutenberg.org/2009/agents/2304
+description: Cover; The Adventures in the Land of Canaan; Copyright; FOREWORD; INTRODUCTORY
+  CHAPTER; CHAPTER ONE; CHAPTER TWO; CHAPTER THREE; CHAPTER FOUR; CHAPTER FIVE; CHAPTER
+  SIX; CHAPTER SEVEN; CHAPTER EIGHT; CHAPTER NINE; CHAPTER TEN; CHAPTER ELEVEN; CHAPTER
+  TWELVE; CHAPTER THIRTEEN.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian life'
+title: Adventures in the Land of Canaan
+url: http://www.gutenberg.org/ebooks/7016
